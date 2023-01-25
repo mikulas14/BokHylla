@@ -6,7 +6,7 @@
 - Aplikácia funguje ako jednoduchá knižnica s možnostou hľadania, prehliadania a ukladania kníh.
 
 ## Dokumentace
-- https://reactnative.dev/docs/getting-started
+- https://reactnative.dev
 - https://expo.dev
 
 ## Spustenie
